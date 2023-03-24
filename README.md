@@ -84,3 +84,4 @@ During our project we encountered some limitations and setbacks that we have cho
 2. Because our sources came from two different places, a lot of work had to go into reformatting both datasets so they are able to merge smoothly for analyses.
 3. The passenger and airline price CSVs were not formatted to cleanly fit into a database format. Thus we had to clean them by deleting the top and bottom three rows. 
 The passenger and airline price CSVs were not formatted to cleanly fit into a database format. To clean them, we had to delete the top row as well as the bottom three rows. 
+
